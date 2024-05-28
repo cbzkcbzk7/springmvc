@@ -16,8 +16,13 @@
 - [x] 로그
 - [x] 요청 매핑
 - [x] 요청 매핑 - API 예시
-- [x] HTTP 요청 - 기본, 헤더조회 - 요청 파라미터(쿼리 파라미터, HTML Form) - 요청 파라미터(@RequestParam) - 요청 파라미터(@ModelAttribute)
+- [x] HTTP 요청 - 기본, 헤더조회
+  - 요청 파라미터(쿼리 파라미터, HTML Form)
+  - 요청 파라미터(@RequestParam)
+  - 요청 파라미터(@ModelAttribute)
+  - 요청 메시지(단순 텍스트, JSON)
 
-      - 요청 메시지(단순 텍스트, JSON)
-
-  -[X] HTTP 응답 - 정적 리소스, 뷰 템플릿(thymeleaf) - HTTP API, 메시지 바디에 직접 입력 -[X] HTTP 메시지 컨버터 -[ ] 요청 매핑 헨들러 어뎁터 구조
+- [X] HTTP 응답 - 정적 리소스, 뷰 템플릿(thymeleaf)
+      - HTTP API, 메시지 바디에 직접 입력
+ - [X] HTTP 메시지 컨버터
+ - [ ] 요청 매핑 헨들러 어뎁터 구조
