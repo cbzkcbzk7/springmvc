@@ -4,12 +4,14 @@
 
 - SECTION 6 : 스프링MVC - 기본 기능
 
-# ⚙️SKILL
+# ⚙️SETTING
 
 - https://start.spring.io/ 프로젝트 생성
 - Gradle - Groovy
 - Spring boot 3.3.0
 - Java 17
+- Lombok setting : File > Settings > anntation processor
+  -  [X] Enable annotation processing
 
 # 📒INDEX
 
